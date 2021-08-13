@@ -33,4 +33,8 @@ abstract class Pessoa {
 		$this->sexo = $s;
 	}
 }
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 992531771cf682d34f28da082de4b4546367e7a0

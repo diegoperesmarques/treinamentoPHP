@@ -23,4 +23,8 @@ class Aluno extends Pessoa {
 			$this->curso = $c;
 	}
 }
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 992531771cf682d34f28da082de4b4546367e7a0

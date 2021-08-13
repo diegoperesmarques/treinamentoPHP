@@ -11,6 +11,10 @@ require_once 'Visitante.php';
 require_once 'Aluno.php';
 require_once 'Bolsista.php';
 /*$v1 = new Visitante();
+<<<<<<< HEAD
+=======
+
+>>>>>>> 992531771cf682d34f28da082de4b4546367e7a0
 $v1->setNome("Juvenal");
 $v1->setIdade(33);
 $v1->setSexo("M");
@@ -35,4 +39,8 @@ print_r($b1);
 ?>
 </pre>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 992531771cf682d34f28da082de4b4546367e7a0
