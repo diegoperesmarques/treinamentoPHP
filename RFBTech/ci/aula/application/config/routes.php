@@ -55,3 +55,7 @@ $route['translate_uri_dashes'] = FALSE;
 $route['fotos'] = 'primeiro/fotos';
 $route['videos'] = 'primeiro/videos';
 $route['contato'] = 'primeiro/contato';
+$route['post'] = 'primeiro';
+$route['post/(:num)'] = 'pagina/post/$1';
+$route['login'] = 'setup/login';
+$route['painel'] = 'setup/login';
