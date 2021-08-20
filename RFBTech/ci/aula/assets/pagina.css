@@ -1,0 +1,8 @@
+html {
+    background-color: #dcdcdc;
+}
+
+input,textarea {
+    display: block;
+    margin: 10px;
+}
