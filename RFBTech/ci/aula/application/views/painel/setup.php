@@ -10,6 +10,10 @@
 <body>
 <h2><?php echo $h2; ?></h2>
 <?php
+if ($msg = get_msg()){
+    echo '<div class = "msg-box">' .$msg. '</div>';
+}
+
 echo form_open();
 
 echo form_label('Nome para login: ', 'login');
